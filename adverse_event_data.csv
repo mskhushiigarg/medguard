@@ -1,0 +1,1050 @@
+drug_name,serious,seriousnessdeath,num_reactions
+2 other unknown medications,2,0,5.0
+3tc,1,0,6.0
+5% sodium chloride injection,2,0,3.0
+5-fluorouracil,4,0,3.0
+70% dextrose injection usp,2,0,3.0
+abatacept subq injection 125mg/ml,1,1,1.0
+abilify,5,0,5.25
+abraxane,2,0,1.0
+acenocoumarol,1,0,3.0
+acetaminophen,14,13,1.1428571428571428
+acetaminophen.,2,0,2.0
+acetylcysteine.,2,0,2.0
+acetylsalicylic acid,1,0,4.0
+aciphex,2,0,9.5
+aclasta,22,12,3.0
+aclasta/zoledronate,2,0,1.0
+acth,2,0,3.0
+actonel,1,0,3.0
+acyclovir,2,2,4.5
+acyclovir                          /00587301/,2,0,7.0
+acz885,1,1,2.0
+adalat,2,0,1.0
+adalat cc,1,0,1.0
+adcal d3,1,0,4.0
+adcirca,12,0,1.8571428571428572
+adderall,2,0,4.0
+adiro 100,1,0,1.0
+adriamycin,1,0,9.0
+advair,5,0,1.0
+advair hfa,3,0,1.0
+advil,3,0,11.0
+advil cold,1,0,8.0
+afinitor,2,1,1.5
+afrin no drip,2,0,1.0
+akineton,1,0,19.0
+aktiferrin,1,0,7.0
+albuterol,4,0,3.0
+albuterol                          /00139501/,4,0,2.5
+albuterol hfa,2,0,1.0
+aldactone,1,0,1.0
+aldactone                          /00006201/,2,0,9.0
+aldactone (canrenoate potassium),1,0,1.0
+aldactone a,1,0,1.0
+alendronate,2,0,2.0
+alendronate sodium.,1,0,10.0
+alendronic acid,3,0,4.666666666666667
+aleve,2,0,2.0
+all other therapeutic products,1,0,16.0
+allegra,2,0,3.0
+allegra allergy,2,0,2.0
+allergy tab,2,0,6.0
+allopurinol,18,1,4.666666666666667
+allopurinol.,4,0,6.0
+allopurinolo,1,0,13.0
+alprazolam,5,0,2.3333333333333335
+alvedon,1,0,1.0
+amaril,1,0,2.0
+ambien,7,0,3.8
+ambilify,2,0,1.0
+ambrisentan,2,1,1.0
+amias,1,0,1.0
+amikacin,1,0,14.0
+amiloride,2,0,2.0
+amiodarone,2,0,5.0
+amiodarone hcl,1,0,2.0
+amisulpride,1,0,3.0
+amitriptyline,6,0,6.5
+amlodin,1,0,1.0
+amlodipin//amlodipine,1,1,2.0
+amlodipine,12,0,3.3333333333333335
+amlodipine benazepril,2,0,1.0
+amlodipine besylate,1,0,4.0
+amn107,7,0,1.75
+amoxicillin,3,0,9.0
+amoxicillin+clavulanate,1,0,3.0
+amoxicillin/clavulanic acid,1,0,2.0
+amoxycillin,1,0,1.0
+ampyra,6,0,7.166666666666667
+anafranil,2,0,4.0
+analgetic drug,1,0,2.0
+angios (calcium),1,0,7.0
+anti tuberculosis drug (not specified),1,0,4.0
+antibiotics,4,0,1.25
+antiepileptics,1,0,3.0
+antiflat,1,0,7.0
+antihistamines,2,0,1.0
+antihypertensives,2,0,2.0
+"antioxident multiple vitamins (a,d,e,k-intensive) and minerals",2,0,1.0
+apexicon,2,0,2.0
+apidra,1,0,10.0
+appearex,2,0,1.0
+apriso,1,0,7.0
+aranesp,2,0,4.0
+arestal,1,0,1.0
+aripiprazole,1,0,3.0
+arkolamyl,1,0,2.0
+armour thyroid,1,0,1.0
+artist,2,0,1.0
+asa,3,0,7.0
+asacol,1,0,1.0
+asmanex twisthaler,4,0,5.0
+aspercreme,1,0,1.0
+aspirin,29,1,2.6842105263157894
+aspirin low ec,1,0,2.0
+aspirin.,10,0,5.0
+aspirine,1,0,3.0
+ass,2,0,2.0
+atacand,1,0,2.0
+atarax,2,0,10.0
+atarax /can/,1,0,1.0
+atelec,1,0,4.0
+atenolol,7,1,3.8
+atenolol.,3,0,6.0
+ativan,2,0,14.0
+atorvastatin,8,1,4.0
+atorvastatin                       /01326102/,1,0,2.0
+aubagio,7,0,7.285714285714286
+augmentin,3,0,1.3333333333333333
+augmentin xr,2,0,1.0
+avadart,2,0,1.0
+avastin,1,1,1.0
+avlocardyl,1,0,1.0
+axeler,1,0,1.0
+azacitidine injectable,4,0,7.0
+azathioprine,3,2,3.6666666666666665
+azilect,4,0,4.666666666666667
+azithromycin,2,0,2.0
+aztreonam,2,0,1.0
+b-12,2,0,1.0
+b12,4,0,11.0
+baby aspirin,3,0,2.5
+baclofen,1,0,3.0
+baclofen.,1,0,10.0
+bactrim,2,0,1.0
+baktar,1,0,2.0
+banzel,1,0,1.0
+bayaspirin,1,0,4.0
+beclospin,1,0,2.0
+belimumab,1,1,1.0
+benadryl                           /00000402/,2,0,1.0
+benazepril,2,0,1.0
+bendamustine,1,0,2.0
+benicar,4,0,6.0
+benicar hct,2,0,9.0
+benlysta,2,0,3.5
+bentyl,1,0,1.0
+benzodiazepines,1,0,20.0
+benzonatate,5,0,5.666666666666667
+benzonatate.,3,0,3.0
+beraprost,1,1,7.0
+berinert,1,0,5.0
+berlthyrox,1,0,1.0
+betaseron,1,1,4.0
+beyaz,1,0,10.0
+biaxin,2,0,1.0
+bibw 2992,2,0,13.0
+bifidobacterium,1,0,1.0
+biotin,1,0,10.0
+bisoce,1,0,2.0
+bisoprolol,9,0,2.0
+bisphosphonates,2,0,1.0
+blinded aliskiren,1,0,1.0
+blinded enalapril,1,0,1.0
+blinded no treatment received,1,0,1.0
+blinded: pertuzumab,1,1,3.0
+blinded: placebo,1,1,3.0
+blood pressure medication,1,0,3.0
+boniva,1,0,4.0
+bosentan,1,1,7.0
+budesonide,2,0,10.0
+bumetanide,1,0,1.0
+bupropion,3,0,2.5
+buspar,3,0,9.5
+buspirone,1,0,2.0
+busulfan,2,2,4.5
+busulfex,1,1,15.0
+"butalbital, acetaminophen, and caffeine",1,0,4.0
+ca gluconate,2,0,3.0
+calcichew d3,2,1,3.0
+calciless,1,0,1.0
+calcineurin inhibitors,1,1,15.0
+calciparine,1,0,4.0
+calcium,18,0,4.25
+calcium  supplement                          /00060701/,2,0,2.0
+calcium 600 + d,2,0,1.0
+calcium [calcium],1,0,10.0
+calcium carbonate,1,1,1.0
+calcium carbonate- vitamin d,1,0,12.0
+calcium carbonate.,3,0,7.5
+calcium with vitamin d,2,0,1.0
+calcium with vitamin d             /00944201/,1,0,12.0
+campath,1,1,1.0
+candio hermal,1,0,7.0
+canesten (kainiting),1,0,3.0
+captopril sandoz,1,0,5.0
+carbamazepine,4,0,7.25
+carbidopa and levodopa,3,0,5.5
+carbidopa/levodopa,2,0,5.0
+cardicor,1,0,1.0
+cardioaspirin,2,0,3.5
+cardizem,1,0,16.0
+carmellose,2,0,7.0
+carvedilol,1,0,1.0
+carvedilol.,2,0,1.5
+casodex,8,0,2.0
+catapres,1,0,1.0
+ceclor,2,0,1.0
+cefmetazole,1,0,3.0
+ceftriaxone,6,0,4.333333333333333
+cefuroxime,2,0,1.0
+celebrex,9,0,4.0
+celecox,1,0,4.0
+celexa,5,1,2.3333333333333335
+celexa                             /00582602/,1,0,3.0
+centrum,2,0,1.0
+centrum silver                     /02363801/,1,0,2.0
+cephalexin,2,0,2.0
+cephalexin                         /00145501/,1,0,15.0
+certican,1,0,6.0
+cetirizine,2,0,10.0
+cetirizine                         /00884302/,1,0,15.0
+cetuximab,1,0,3.0
+champix,2,0,4.0
+chantix,4,0,1.0
+chinese medicine,1,0,2.0
+cholecalciferol,2,0,2.0
+ciclosporin,3,2,5.0
+cimetidine,1,0,15.0
+cinryze (c1 esterase inhibitor (human)),2,0,5.0
+ciprodex                           /00697202/,2,0,2.0
+ciprofloxacin.,1,0,15.0
+cisordinol,1,0,19.0
+cisplatin,4,3,4.0
+cisplatin (unknown),1,0,1.0
+cisplatin for inj,2,0,17.0
+citalopram,7,0,3.6666666666666665
+citalopram (unknown),2,0,1.0
+citalopram hydrobromide.,1,0,2.0
+citalopram oral solution,1,0,3.0
+clarithromycin,1,0,3.0
+claritin chewable tablets,112,0,1.0357142857142858
+claritin reditabs,2,0,1.0
+clavulin,1,0,3.0
+clexane,1,0,1.0
+clindamycin,1,0,14.0
+clobetasol proprionate,1,0,3.0
+clomipramine,2,0,3.0
+clonazepam,10,1,2.857142857142857
+clonazepam.,2,0,3.5
+clonidine,2,0,1.0
+clopidix,1,0,1.0
+clorana,1,0,11.0
+clotrimazole,1,0,6.0
+clozapine,10,0,7.571428571428571
+clozaril,11,0,3.5454545454545454
+codeine,2,0,1.0
+cogentin,6,0,1.5
+colchicine,2,0,5.0
+colchicine.,4,0,2.3333333333333335
+coloxyl c senna,1,0,7.0
+combivent,8,0,1.5
+cometriq,1,1,5.0
+compazine,2,0,1.0
+compazine                          /00013302/,1,0,7.0
+complera,2,0,1.0
+contraceptive pill,1,0,2.0
+copaxone,5,1,6.75
+coq10,1,0,13.0
+cordarone,2,0,2.0
+coricidin hbp cold and flu,10,0,2.0
+cortancyl,1,1,1.0
+corticosteroids,3,0,1.0
+coumadin,4,0,3.3333333333333335
+coumadin tabs 2 mg,1,0,4.0
+coversyl,1,0,1.0
+cozaar,5,1,2.3333333333333335
+cozaar/hctz,2,0,15.0
+cranberry,1,0,2.0
+creon,1,0,1.0
+crestor,3,0,2.5
+cubicin,2,2,1.0
+cyanocobalamin,1,0,16.0
+cyclophosphamide,8,4,5.0
+cyclophosphamide.,1,0,1.0
+cymbalta,7,0,5.8
+cytarabine,1,1,4.0
+d-cure,1,0,6.0
+dafalgan,2,0,2.5
+daily multivitamin,2,0,1.0
+dapsone,1,0,4.0
+darunavir,1,0,2.0
+darvocet-n 100,1,0,8.0
+denzapine,1,0,3.0
+depakene,7,0,15.333333333333334
+depakene-r (valproate sodium),1,0,1.0
+depakine,2,0,3.0
+depakote,248,3,3.185185185185185
+depakote er,11,0,9.166666666666666
+depakote sprinkle,2,0,2.0
+deso 30,1,0,4.0
+dexamethasone,6,0,3.5
+dexamethasone.,4,0,3.0
+dexedrine,2,0,1.0
+dexilant,2,0,1.0
+dexketoprofen,2,0,2.0
+dextroamphetamine sulfate,1,0,1.0
+diabetes medication,4,0,5.0
+diamox,1,0,2.0
+dianeal low calcium,31,6,2.3703703703703702
+dianeal low calcium (ultrabag),11,2,3.4545454545454546
+dianeal low calcium peritoneal dialysis solution with dextrose,6,0,4.0
+dianeal pd2,2,0,3.0
+dianeal pd2 (ultrabag),1,0,2.0
+dianeal pd2 with 1.5% dextrose,2,2,1.0
+dianeal pd2 with 4.25% dextrose,2,2,1.0
+dianeal pd4 solution with 1.5% dextrose and 2.5 meq/l calcium,1,0,2.0
+dianeal-n pd-4 1.5 pd solution,1,1,1.0
+diaprel,1,0,1.0
+diazepam,2,1,3.5
+dicyclomine,2,0,3.0
+didrocal,2,0,1.0
+dilantin,6,0,1.75
+diltiazem,6,0,5.5
+diovan,9,1,4.142857142857143
+diovan hct,1,0,4.0
+diphenhydramine,13,13,1.0769230769230769
+dipyridamole.,1,0,1.0
+divalproex sodium,6,0,4.5
+docetaxel,3,0,13.0
+docetaxel (unknown),1,0,1.0
+doliprane,2,0,1.0
+donepezil,1,0,5.0
+donepezil (unknown),1,0,5.0
+doxazosin,2,0,2.5
+doxazosin (unknown),1,0,1.0
+doxorubicin,1,0,2.0
+doxorubicin teva,1,0,3.0
+doxycycline,1,0,1.0
+doxycycline hyclate,2,0,1.0
+duragesic,2,0,2.0
+duragesic-100,1,1,2.0
+durateston,1,0,11.0
+durotep mt,3,1,1.0
+dutasteride,1,0,4.0
+ecotrin,1,0,6.0
+effexor,4,0,4.5
+effexor xr,16,0,4.2
+elleste solo,1,0,1.0
+eloquis,2,0,5.0
+emconcor,1,0,6.0
+enalapril,3,0,4.333333333333333
+enalapril maleate,1,0,7.0
+enapren,1,0,1.0
+enbrel,1,0,1.0
+endoxan,1,0,3.0
+enoxaparin,1,0,1.0
+entacapone,1,0,10.0
+epamin,1,0,20.0
+epival,2,0,1.0
+epogen,2,0,1.0
+epoprostenol.,2,0,3.0
+erbitux soln for inf 5mg/ml,2,0,17.0
+ergenyl,1,0,19.0
+erythromycin.,1,0,15.0
+esomeprazole,2,0,5.0
+estring,2,0,1.0
+etoposide,13,13,1.0769230769230769
+eupressyl,1,0,1.0
+everolimus,2,0,3.0
+evista,2,0,1.0
+evitol,1,0,1.0
+exelon patch,2,0,4.0
+exemestane,1,0,2.0
+exjade,6,4,1.1666666666666667
+extavia,2,0,3.0
+extraneal,4,2,2.75
+famotidine,2,0,9.0
+fanapt,1,0,2.0
+"feiba 500 u injektio/infuusiokuiva-aine ja liuotin, liuosta varten",2,0,3.0
+felbamate,1,1,5.0
+femara,3,0,3.0
+fenofibrate,3,0,1.5
+fentanilo//fentanyl,1,0,3.0
+fentanyl citrate,1,1,3.0
+fentanyl patch,1,1,1.0
+fentanyl patches,1,0,7.0
+fentanyl.,2,0,2.0
+ferrlecit,2,0,1.0
+ferro sequels,1,0,1.0
+fetzima,2,0,1.0
+finasteride,6,0,3.6666666666666665
+fioricet,2,0,2.5
+fiorinal,2,0,1.0
+firazyr,1,0,5.0
+fish oil,17,0,4.222222222222222
+fish oil - vitamin d3,1,0,2.0
+flagyl,1,0,8.0
+flax seed oil,1,0,2.0
+flaxseed,1,0,12.0
+flexeril,4,0,4.75
+flexeril                           /00428402/,2,0,1.0
+flixotide,1,0,1.0
+flodil lp,1,0,1.0
+flomax                             /00889901/,2,0,1.0
+florinef acetate,1,0,1.0
+flovent,8,0,5.0
+fluconazole,1,0,14.0
+fludarabine,1,1,15.0
+fluimucil,1,0,2.0
+fluorouracil,3,3,5.0
+fluoxetine,2,1,10.0
+flupentixol,1,0,12.0
+fluticasone,2,0,3.0
+fluvoxamine maleate,1,0,2.0
+folic acid,11,0,4.2
+folinate de calcium winthrop,1,0,5.0
+folinic acid,2,0,3.0
+foltx,1,0,4.0
+"forane (isoflurane, usp)",2,0,1.0
+formula 405,1,0,3.0
+forteo,3,0,1.5
+fosamax,5,1,6.75
+fosamax plus d,1,0,10.0
+furosemide,5,0,2.0
+furosemide.,10,0,5.25
+gabapentin,12,0,3.2857142857142856
+gabapentin.,2,0,2.0
+gadolinium (unspecified),4,0,1.0
+gamunex c,1,0,6.0
+gardenale,1,0,2.0
+garlic,2,0,11.0
+gastrointestinal preparations (unspecified),1,0,10.0
+gemcitabine,3,0,1.0
+gentamicin sulfate,2,0,1.0
+geodon,2,0,1.0
+gianvi,1,0,2.0
+gilenya,14,3,3.923076923076923
+gleevec,4,2,5.5
+glimepiride,3,0,2.0
+glipizide,6,0,2.0
+glivec,11,9,2.3636363636363638
+glucophage,1,0,16.0
+glucosamine chondroitin            /01625901/,2,0,4.0
+glyburide,1,0,3.0
+granulocyte macrophage colony stim factor,1,0,1.0
+guanfacine,2,0,2.0
+habitrol 21 mg,1,0,3.0
+haldol,3,0,4.0
+harnal d (tamsulosin hydrochloride),1,0,1.0
+hct,1,0,1.0
+headache powder,2,0,10.0
+heart medication,1,0,3.0
+heminevrin,1,0,19.0
+hepatamine 8%,2,0,3.0
+herceptin,1,0,1.0
+holoxan,13,13,1.0769230769230769
+hormones nos,2,0,1.0
+humalog,4,0,7.0
+human clottable protein/human thrombin,4,0,1.75
+humira,33,3,2.96875
+"humulin 30% regular, 70% nph",1,0,1.0
+hydralazine,3,0,2.0
+hydrea,2,0,2.0
+hydrochlorothiazide,9,0,2.0
+hydrochlorothiazide.,2,0,10.5
+hydrocodone,6,0,7.0
+hydrocodone bitartrate and acetaminophen,2,0,3.0
+hydrocodone/apap,2,0,1.0
+hydrocortisone.,1,0,1.0
+hydroxychloroquine,1,0,4.0
+hydroxyurea,8,0,5.25
+hyoscine hydrobromide,1,0,5.0
+hyperium,1,0,2.0
+hypertonic saline solution,1,0,3.0
+ibrutinib,2,0,1.0
+ibrutinub,1,0,2.0
+ibuprofen,8,0,4.571428571428571
+ibuprophen,2,0,3.0
+ideos,1,0,7.0
+idroclorotiaz,2,0,13.0
+ilaris,2,0,2.0
+ima901,1,0,1.0
+imatinib,1,0,4.0
+imbruvica,2,0,1.0
+imipramine,2,0,4.0
+immunoglobulins,1,1,5.0
+imodium,1,0,2.0
+imovane,1,0,19.0
+implanon,1,0,5.0
+impril,2,0,1.0
+imuran,1,0,4.0
+incivek,4,0,3.0
+indapamide,1,0,1.0
+inderal,2,0,9.0
+inegy,1,0,1.0
+inexium//esomeprazole magnesium,1,0,2.0
+influenza virus,1,0,1.0
+inotyol,1,0,7.0
+insulin,1,0,3.0
+insulina glargine,1,0,13.0
+insulina glulisina,1,0,13.0
+interferon (unspecified),2,0,1.0
+interferon beta-1a,1,0,10.0
+intravenous immunoglobulin,1,1,1.0
+invega,3,0,10.0
+iodine,2,0,1.0
+ipramol,1,0,1.0
+ipratropium,1,0,14.0
+ipratropium  inhaler                    /00391402/,2,0,2.0
+ipratropium bromide.,2,0,2.0
+irbesartan.,2,0,13.0
+irinotecan,1,1,1.0
+irinotecan (unknown),1,0,3.0
+iron,4,0,1.6666666666666667
+iron dextran,1,0,1.0
+isosorbide,1,0,3.0
+istodax,1,0,1.0
+itrizole,1,0,2.0
+izotonik sodyum klor?r pvc,1,0,2.0
+jakafi,310,4,3.664804469273743
+janumet,2,2,7.5
+januvia,9,2,4.285714285714286
+jodthyrox,2,0,2.0
+jzoloft,1,0,1.0
+k phosphate,2,0,3.0
+kaletra,2,0,4.5
+kalydeco,1,0,4.0
+kardegic,1,0,2.0
+kaskadil,1,0,1.0
+kcl,2,0,11.0
+keppra,13,0,2.375
+keri original,4,0,3.0
+ketamine,1,1,5.0
+ketoprofen,2,0,9.0
+klacid,2,0,2.0
+klonopin,8,0,6.25
+klor-con,4,0,4.333333333333333
+kynamro,2,0,7.0
+l-thyroxin,1,0,2.0
+labetalol,2,0,2.0
+lactulose.,1,0,1.0
+lamictal,7,1,6.4
+lamotrigine,3,0,10.666666666666666
+lanoxin,1,0,6.0
+lansoprazole,4,0,4.75
+lansoprazolo,1,0,13.0
+lantus,8,0,4.6
+lantus solostar,2,0,1.0
+largactil,1,0,2.0
+lasilix,2,0,3.0
+lasilix faible,1,0,1.0
+lasix,11,0,3.0
+lasix                              /00032601/,3,0,5.5
+latuda,8,0,1.0
+latunda,2,0,1.0
+lcl161,1,0,1.0
+leflunomid,1,0,1.0
+letairis,607,1,2.0126582278481013
+leucovorin,1,0,2.0
+leuprorelin,1,0,2.0
+levemir,2,0,1.0
+levetiracetam,1,0,12.0
+levothroid,2,0,3.0
+levothyrox 125 mcg,1,0,1.0
+levothyroxine,13,0,2.111111111111111
+levothyroxine sodium,2,0,2.0
+levothyroxine.,1,0,15.0
+lexapro,16,0,3.3333333333333335
+lexapro film-coated tablets,2,0,4.0
+lexomil,2,0,2.5
+limarmone,1,0,4.0
+lipitor,49,0,1.7173913043478262
+lisinopril,18,0,4.083333333333333
+lisinopril hctz,2,0,11.0
+lisinopril.,3,0,1.6666666666666667
+lisinopril/hydrochlorothiazide,2,0,3.0
+lithionit,1,0,19.0
+lithium,11,0,7.142857142857143
+lithium aspartate,2,0,1.0
+lo loestrin fe,1,0,4.0
+lomotil                            /00034001/,2,0,1.0
+lomotil (loperamide hydrochloride),2,0,2.0
+loratadine,3,0,1.5
+loraza,2,0,1.0
+lorazepam,11,0,5.555555555555555
+lorazepam.,3,0,3.0
+lortab,3,0,1.5
+losartan,7,0,2.0
+losartan + hidroclorotiazida,2,0,2.0
+losartan potassium,4,0,1.0
+losartan.,4,0,2.0
+lovastatin,2,0,3.0
+lovenox,3,0,8.0
+low estrogen birth control,1,0,13.0
+lucrin,1,0,1.0
+lunesta,1,0,7.0
+lupron,2,0,3.0
+lupron depot,2,1,1.0
+lutera,1,0,3.0
+luvox,2,0,4.0
+lyrica,31,0,3.9473684210526314
+mabthera,1,0,3.0
+macrogol,1,1,3.0
+madopar,1,0,10.0
+mag-tab,1,0,2.0
+magnesium,3,0,8.666666666666666
+magnesium  supplement                        /00123201/,2,0,2.0
+magnevist,33,0,1.0
+malarone,1,0,2.0
+marcumar,2,0,2.0
+marevan,1,0,6.0
+maxolon,3,0,7.0
+mefoxin,1,0,5.0
+menest                             /00073001/,2,0,2.0
+meropenem,3,0,7.5
+mesalazine,1,0,4.0
+metformin,23,2,4.0
+metformin hcl,2,0,5.0
+metgluco,1,0,4.0
+methadone,2,0,2.0
+methocarbamol,1,0,3.0
+methotrexate,13,2,4.0
+methylprednisolone,4,1,3.5
+methylprednisolone acetate,2,0,2.0
+metildigoxin,1,0,1.0
+meto tablinen,1,0,1.0
+metoclopramide,2,2,2.0
+metoprolol,14,0,3.2222222222222223
+metoprolol                         /00376902/,1,0,2.0
+metoprolol succinate,2,0,1.0
+metoprolol tartrate,4,0,6.0
+metoprolol.,3,0,3.0
+metotressato teva,1,0,1.0
+metronidazole,8,0,5.571428571428571
+metronidazole (unknown),1,0,1.0
+miacalcin,2,0,1.0
+micamlo,1,0,4.0
+micropakine,1,0,2.0
+midazolam,2,0,3.0
+minocycline,2,0,1.0
+miralax,1,0,1.0
+mirapex,2,0,5.0
+mirena,26,0,3.9047619047619047
+mirtazapin,1,0,2.0
+mirtazapine,2,0,3.0
+mirtazapine (unknown),1,0,5.0
+mirtazapine.,1,0,2.0
+mizoribine,1,1,7.0
+mln9708,1,0,3.0
+monotildiem lp,1,0,2.0
+morphine,1,0,2.0
+morphine sulfate (similar to nda 19-516),1,0,3.0
+morphine sulfate extended-release tablets (rhodes 74-862),1,0,3.0
+movicolon,1,0,1.0
+moxonidine,1,0,6.0
+mucinex,1,0,2.0
+mucomystendo,1,0,2.0
+multi-vit,1,0,6.0
+multibionta drops,1,0,7.0
+multihance,2,0,1.0
+multiple vitamin with minerals,1,0,12.0
+multivitamin,4,0,6.5
+multivitamin                       /00097801/,10,0,3.2
+multivitamins,9,0,3.0
+mvi,1,0,17.0
+mycophenolate mofetil,1,0,4.0
+myfortic,2,1,3.5
+nasacort allergy,1,0,2.0
+nasal drops with sodium chloride,1,0,7.0
+nasonex,6,0,5.6
+nebivololo,1,0,13.0
+nedal,1,0,1.0
+neo-mercazole,1,0,1.0
+neoral,2,2,5.0
+neulasta,5,0,1.0
+neupro,1,0,4.0
+neurontin,7,1,6.5
+nexium,4,0,4.0
+nexium                             /01479302/,3,0,1.5
+nexplanon,18,0,1.8888888888888888
+niacin,4,0,1.5
+niaspan,2,0,1.0
+nicotine,4,0,1.0
+nicotine.,1,0,5.0
+nitro stat,1,0,2.0
+nodoz,1,0,11.0
+norco,2,0,9.0
+noritren,1,0,13.0
+nortriptyline,2,0,1.0
+norvasc,7,0,5.0
+novolog,2,0,1.0
+novorapid,1,0,2.0
+nozinan,1,0,19.0
+nuvaring,4,0,2.0
+nuvigil,2,0,1.0
+nystatin,1,0,14.0
+ofatumumab,2,0,2.0
+oki,1,0,3.0
+olanzapine,4,0,5.5
+oleovit d3,1,0,7.0
+omega                              /01454401/,1,0,15.0
+omega 3                            /01334101/,2,0,6.0
+omega 3-6-9,1,0,1.0
+omeprazen,3,0,2.0
+omeprazol,1,0,1.0
+omeprazole,29,3,5.15
+omeprazole dr,2,0,1.0
+omeprazole.,4,0,4.5
+omniscan,22,6,1.0
+oncovin,1,0,3.0
+one a day multivitamin,1,0,1.0
+onfi,14,1,3.8
+onfi (oral suspension),2,0,1.0
+optimark,1,0,1.0
+optiray 320,1,0,1.0
+ossicodone,2,0,13.0
+otc diuretic,2,0,7.0
+oxaliplatin,2,0,3.0
+oxaliplatin teva 5mg/ml,1,0,5.0
+oxascand,1,0,19.0
+oxybutynin,2,0,4.5
+oxycodone,6,1,3.8
+oxycontin,6,1,2.25
+oxygen,2,0,2.0
+oxygen.,10,0,2.6
+oxytrol for women,16,0,1.875
+paclitaxel,4,1,4.25
+pamelor,2,0,3.0
+pantoprazole,6,0,4.166666666666667
+pantozol                           /01263204/,1,0,2.0
+pantozole,1,0,1.0
+paracetamol,4,0,4.75
+paracetamolo,2,0,13.0
+paragard 380a,5,0,2.25
+pargitan,1,0,19.0
+paroxetine,5,0,5.0
+paxil,3,0,9.0
+pegasys,4,0,3.0
+peginterferon alfa-2b,2,0,7.0
+pegintron,2,0,6.0
+pencillin,1,1,3.0
+pentasa,1,0,12.0
+pentassa,1,0,7.0
+perazine,1,0,3.0
+percocet,3,0,3.0
+perforomist,1,0,6.0
+phenergan,1,0,2.0
+phenergan                          /00033001/,2,0,5.0
+phenobarbital,2,1,3.5
+phillips^ milk of magnesia liquid original,1,0,3.0
+phytonadione.,1,0,1.0
+pivalone,1,0,2.0
+plan b one-step,12,0,1.5
+plaquenil,2,0,3.5
+plavix,9,0,3.6666666666666665
+pletal,1,0,1.0
+polaramine,2,0,2.0
+polocard,1,0,1.0
+posaconazole,1,0,7.0
+potassium,4,0,1.0
+potassium chloride,1,0,2.0
+potassium chloride 0.4meq/ml,2,0,3.0
+potassium chloride.,5,0,5.0
+pradaxa,14,0,2.2
+pramipexole,1,0,3.0
+pravastatin,7,0,3.6
+pravator,1,0,1.0
+prednisolon,1,0,1.0
+prednisolone,10,4,4.7
+prednisolone.,4,0,5.25
+prednisone,16,2,3.066666666666667
+prednisone /00044702/,1,0,2.0
+prednisone.,3,0,2.0
+premarin,5,0,6.0
+prenatal vitamins,1,0,13.0
+preservision lutein,2,0,1.0
+prevacid,1,0,1.0
+previscan,2,0,2.0
+prilosec,5,0,3.0
+prilosec                           /00661201/,2,0,2.0
+primaquine,2,0,1.0
+primidone,2,0,1.0
+prinivil,2,0,1.0
+pristiq,10,0,3.4
+pristiq extended release,2,0,1.0
+proair hfa,2,0,3.0
+probiotics,2,0,2.0
+procardia,2,0,1.0
+procardia                          /00340701/,2,0,1.0
+procrit,2,0,3.0
+procrit                            /00909301/,2,0,2.0
+prograf,1,1,1.0
+prohance,1,0,1.0
+prolia,3,0,2.0
+promethazine,2,0,1.0
+propanolol,2,0,11.0
+propavan,1,0,19.0
+propecia,2,0,15.0
+propofol,1,1,5.0
+propoxyphene napsylate w/acetaminophene,1,0,8.0
+propranolol,3,0,1.5
+proscar,2,0,3.0
+protonix,3,0,1.5
+proventil,3,0,3.5
+prozac,8,0,7.666666666666667
+pyostacine,1,0,2.0
+pyridoxine,1,1,5.0
+quetiapine,1,0,3.0
+quetiapine (unknown),1,0,1.0
+qvar,2,0,3.0
+ramipril,6,0,3.0
+ramipril.,2,0,1.5
+ranexa,3,0,3.5
+ranitidine,6,0,8.6
+ranitidine                         /00550802/,2,0,3.0
+ranolazine,1,1,1.0
+rapamune,1,0,12.0
+rasilez,1,0,2.0
+rebif,5,0,15.2
+reglan,1,0,7.0
+reglan                             /00041901/,2,0,1.0
+relpax,2,0,2.5
+remergil,1,0,2.0
+remeron,4,0,3.0
+remodulin,15,0,2.875
+reopro,1,0,9.0
+restasis,1,0,15.0
+revatio,20,0,3.0
+revlimid,14,5,3.230769230769231
+ribapak,2,0,6.0
+ribavirin,8,0,3.0
+risperdal,7,0,1.5
+risperidone,1,0,12.0
+ritonavir,1,0,2.0
+rituximab,14,13,1.1428571428571428
+rivaroxaban,1,0,4.0
+roactemra,2,0,1.0
+rocuronium bromide,1,0,2.0
+ropinirole,1,0,3.0
+ropinirole.,1,0,15.0
+rosuvastatin,1,0,4.0
+sabril,2,0,2.0
+sabril (for oral solution),6,1,2.5
+salobel,1,0,4.0
+samsca,1,0,1.0
+sandostatin,1,1,10.0
+sandostatin lar,3,3,1.3333333333333333
+sandostatin lar depot,11,1,7.545454545454546
+sea kelp,1,0,1.0
+selara,2,0,2.0
+selozok,1,0,1.0
+seroquel,12,0,6.142857142857143
+seroquel xr,30,0,10.533333333333333
+sertraline,4,1,2.5
+"sevoflurane, usp",1,0,1.0
+sildenafil,2,0,3.0
+sildenafil citrate,2,0,2.0
+sildenafil.,4,0,1.5
+simulect,2,2,1.0
+simvastatin,17,0,2.3636363636363638
+simvastatin-1a pharma,1,0,1.0
+simvastatin.,2,0,13.5
+sinemet,1,0,10.0
+singulair,3,0,1.5
+sinvastacor,1,0,5.0
+sivastin,1,0,1.0
+slimquick,2,0,2.0
+slow mag                           /07370001/,1,0,15.0
+slow release iron,1,0,1.0
+smecta,1,0,1.0
+sobril,2,0,10.0
+sodium valproate (unknown),1,0,1.0
+solaraze,2,0,3.0
+soliris,5,0,7.4
+solumedrol,1,1,4.0
+sotalol.,2,0,3.0
+spiriva,32,0,2.3529411764705883
+spironolacton,1,0,1.0
+spironolactone,8,1,5.0
+stelara,4,0,1.0
+sterile water for injection,2,0,3.0
+stesolid,1,0,19.0
+succinylcholine,1,0,1.0
+succinylcholine bromide,1,0,2.0
+sucralfate,2,0,2.0
+sulfasalazine.,1,0,2.0
+sulpiride,1,0,3.0
+sumatriptan,1,0,4.0
+sumatriptan succinate,1,0,1.0
+sunitinib malate,1,0,1.0
+super  omega- 3,1,0,2.0
+sutent,1,1,2.0
+symbicort,2,0,4.0
+synagis,1,0,7.0
+synthroid,18,0,3.4
+tachipirina,1,0,3.0
+tacrolimus,1,0,1.0
+tacrolimus (watson laboratories),1,0,3.0
+tacrolimus.,1,0,12.0
+tahor,1,0,2.0
+takepron,1,0,2.0
+talwin,2,0,1.0
+tamsulosin,3,0,1.5
+tamsulosin hydrochloride,1,0,4.0
+tasigna,3,2,2.0
+tavegil,1,0,1.0
+tegretol,12,0,7.777777777777778
+telaprevir,1,0,1.0
+telmisartan.,1,0,3.0
+temazepam,1,0,2.0
+temesta [lorazepam],1,0,1.0
+temodal,1,1,1.0
+terazosabb,1,0,6.0
+terazosin,3,0,3.0
+thalidomide,1,1,1.0
+theophylline,1,0,1.0
+theraflu extragrip,1,0,2.0
+theralen,1,0,19.0
+thiamine,3,0,9.0
+thiamine hydrochloride,1,0,1.0
+thymoglobulin,1,0,1.0
+thyrax,1,0,3.0
+thyroid therapy,1,0,5.0
+tiapridal,1,0,1.0
+"tienam 500mg/500mg, poudre pour perfusion",1,0,1.0
+timentin,2,0,1.0
+tizanidine (tizanidine),1,0,4.0
+tobi,3,0,2.3333333333333335
+tobi podhaler,3,0,2.3333333333333335
+tofacitinib citrate,2,0,1.0
+topamax,5,1,4.75
+topimax,2,0,1.0
+topiramate,2,0,15.5
+toprol,3,0,2.5
+toradol,2,0,5.0
+toviaz,2,0,7.0
+tracleer,1,0,2.0
+tramadol,6,0,2.6
+tramadol hydrochloride,2,0,1.0
+tramadol.,2,0,2.0
+trazenta,1,0,4.0
+trazodone,4,0,1.0
+treanda,2,0,1.0
+triamterene and hydrochlorothiazid,1,0,3.0
+triamterene.,2,0,1.0
+triatec,1,0,6.0
+tricor                             /00090101/,2,0,2.0
+trimetazidine hydrochloride sandoz,1,0,1.0
+tritace,1,0,1.0
+trombyl,1,1,2.0
+tums                               /00193601/,2,0,2.0
+tussionex,1,0,2.0
+tylenol,3,0,1.0
+tylenol                            /00020001/,2,0,5.0
+tylenol [paracetamol],1,0,2.0
+tylenol pm,2,0,4.0
+tysabri,1,0,6.0
+tyvaso,28,0,2.4285714285714284
+uloric,2,0,3.0
+ulram,2,0,3.0
+ultracet,1,0,2.0
+ultram,1,0,1.0
+unknown add medication,2,0,1.0
+unknown cholesterol medication,1,0,17.0
+unknown parkinson medication,1,0,17.0
+unspecified medication,2,0,4.0
+uromitexan,13,13,1.0769230769230769
+vagifem,1,0,12.0
+valium,5,0,4.0
+valproate semisodium,2,0,5.0
+valsartan,2,0,10.0
+valtrex,1,0,7.0
+vancomycin mylan,1,0,1.0
+varenicline tartrate,1,0,3.0
+venlafaxine,2,0,1.0
+venlafaxine hcl,2,0,1.0
+venlafaxine hydrochloride,1,0,1.0
+ventavis,4,0,3.0
+ventolin,2,0,6.0
+ventolin hfa,2,0,5.0
+ventoline,1,0,1.0
+verapamil,2,0,3.0
+viagra,4,0,2.0
+vibramycin,2,0,1.0
+vicodin,3,1,3.3333333333333335
+vidaza,1,0,2.0
+vimpat,5,1,2.3333333333333335
+vincristina teva italia,1,0,1.0
+vincristine,1,0,2.0
+vinorelbine (unknown),1,0,1.0
+vismodegib,1,0,1.0
+vitamin b,1,0,13.0
+vitamin b complex,2,0,1.0
+vitamin b complex                  /00212701/,1,0,1.0
+vitamin b6,2,0,6.0
+vitamin c,1,0,4.0
+vitamin d,7,1,1.4
+vitamin d                          /00107901/,5,0,4.333333333333333
+vitamin d nos,2,0,3.0
+vitamin d3,4,0,5.666666666666667
+vitamin e,1,0,1.0
+vitamins,1,0,6.0
+vitamins with minerals,2,0,10.0
+voltaren,1,0,1.0
+voltaren   gel                        /00372301/,2,0,2.0
+voltaren gel,1,0,2.0
+voriconazole.,1,0,2.0
+votum,2,0,2.0
+voveran,2,2,3.0
+waran,1,1,2.0
+warfarin,8,0,1.8
+wellbutrin,9,0,6.4
+xalkori,2,0,1.0
+xanax,9,0,3.2
+xarelto,2,2,4.0
+xeljanz,2,0,3.0
+xeloda,1,1,1.0
+xgeva,1,0,2.0
+xifaxan,2,0,11.0
+xtandi,2,0,4.0
+yasmin,4,0,8.0
+yaz,5,0,6.6
+ymea silhouet,1,0,4.0
+zafirlukast,2,0,1.0
+zantac,3,0,2.0
+zegerid otc capsules,2,0,1.0
+zerit,1,0,6.0
+zestril,1,0,2.0
+zetia,2,0,4.0
+ziagen,1,0,6.0
+zinc,2,0,6.0
+zinc sulfate,1,0,2.0
+zithromax,2,0,1.0
+zocor,6,0,2.0
+zofran,3,0,4.5
+zofran                             /00955301/,2,0,9.0
+zolinza,2,0,3.0
+zoloft,4,0,5.5
+zoloft                             /01011401/,1,0,7.0
+zolpidem,3,0,7.0
+zolpidem sandoz,1,0,4.0
+zonegran,4,0,2.0
+zonisamide,2,0,3.0
+zovirax,1,0,1.0
+zylol,1,0,1.0
+zyloric,2,0,4.0
+zyprexa,6,0,6.75
+zyrtec,3,0,1.5
+zytiga,1,0,4.0
