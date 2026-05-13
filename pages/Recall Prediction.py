@@ -41,10 +41,10 @@ if st.button("🔎 Predict Drug Risk & Recall"):
 
         # Clustering (original row with required features)
         clust_cols = ["serious","seriousnessdeath","num_reactions","boxed_warning","contraindications_len","indications_len"]
-        cluster_input = original_row[clust_cols]
-        cluster_scaled = scaler.transform(cluster_input)
-        cluster_id = kmeans.predict(cluster_scaled)[0]
-        risk_label = {0: "🟢 Low Risk Cluster",1: "🟡 Moderate Risk Cluster",2: "🔴 High Risk Cluster",3: "🟣 Critical Pharmacovigilance Cluster"}
+        available_cols = [col for col in clust_cols if col in original_row.columns]
+        cluster_input = scaler.transform(original_row[available_cols])
+        cluster_id = kmeans.predict(cluster_input)[0]
+        risk_label = {0: "🟢 Low Risk Cluster",1: "🟡 Moderate Risk Cluster",2: "🔴 High Risk Cluster",3: "🟣 Critical Pharmacovigilance Cluster"}.get(cluster_id, "Unknown Cluster")
 
         # Show results
         st.subheader("Prediction Results")
